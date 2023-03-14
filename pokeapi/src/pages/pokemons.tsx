@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import Footer from '../components/Footer'
 import Header from '../components/Header'
 
 const Pokemons = () => {
@@ -10,7 +11,7 @@ const Pokemons = () => {
             <main>
                 <h1>POKEMOS</h1>
             </main>
-            <footer>FOOTER</footer>
+            <Footer/>
         </>
     )
 }
