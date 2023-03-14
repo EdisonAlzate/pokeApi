@@ -1,0 +1,17 @@
+.header{
+    display:grid;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding:10px;
+    place-items:center;
+    background:rgb(50, 83, 35)
+}
+
+.input{
+   background-color: rgb(238, 243, 235);
+   padding: 10px 10px;
+   border-radius: 5px;
+   margin:10px 10px;
+   border:none;
+   width:80vw;
+}
